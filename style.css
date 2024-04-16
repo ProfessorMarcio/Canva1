@@ -3,23 +3,15 @@
 }
 body {
     background-color: rgb(140, 230, 231);
+    font-family: roboto;
+    text-align: center;
 }
 
 header {
     background-color: blue;
-    text-align: center;
     color: aliceblue;
-    justify-content: space-around;
 }
 
 .logo {
     width: 10%;
-}
-
-.section {
-    align-items: center;
-}
-
-.rodape {
-    text-align: center;
 }
