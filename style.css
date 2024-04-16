@@ -3,11 +3,12 @@ body {
 }
 
 header {
+    background-color: blue;
     text-align: center;
     display: inline;
-    justify-content: space-around;
+    color: aliceblue;
 }
 
 .logo {
-    width: 20%;
+    width: 10%;
 }
