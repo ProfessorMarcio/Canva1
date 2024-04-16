@@ -19,3 +19,7 @@ header {
 .rodape {
     border-top: 1px solid gainsboro;
 }
+
+#aluno {
+    font-weight: bold;
+}
