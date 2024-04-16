@@ -10,7 +10,7 @@ body {
 header {
     background-color: blue;
     color: aliceblue;
-    border-bottom: 1 solid gainsboro;
+    border-bottom: 1px solid gainsboro;
 }
 
 .logo {
@@ -18,5 +18,5 @@ header {
 }
 
 footer {
-    border-top: 1 solid gainsboro;
+    border-top: 1px solid gainsboro;
 }
