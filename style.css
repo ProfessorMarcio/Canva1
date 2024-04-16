@@ -9,8 +9,17 @@ header {
     background-color: blue;
     text-align: center;
     color: aliceblue;
+    justify-content: space-around;
 }
 
 .logo {
     width: 10%;
+}
+
+.imagem {
+    text-align: center;
+}
+
+.rodape {
+    text-align: center;
 }
