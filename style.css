@@ -16,3 +16,7 @@ header {
 .logo {
     width: 10%;
 }
+
+footer {
+    border-top: 1 solid gainsboro;
+}
